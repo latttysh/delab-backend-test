@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "nodemon  src/index.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.7.1",
+    "@ton/ton": "^13.9.0",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "prisma": "^5.7.1",
+    "telegraf": "^4.15.3",
+    "ton-crypto": "^3.2.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.10.7",
+    "typescript": "^5.3.3"
+  }
+}

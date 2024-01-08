@@ -1,0 +1,1 @@
+export { createNewWallet, getLastAddress, getUserWalletInfo } from "./wallet.controller"
